@@ -1,3 +1,3 @@
 # Petshop-Pro
-use the same dirctionary
+use the same dirctionary,
 change payload as username or password
